@@ -9,8 +9,8 @@ Este repositorio aloja el proyecto desarrollado para el reto Redux y React, cuyo
 ## El proyecto está organizado en Sprints, y cada uno tiene su propia carpeta con los entregables correspondientes:
 
 * `sprint1/`: Contiene los fundamentos de programación funcional en JavaScript.
-* `sprint2/`: (Aún no implementado) Aplicación React del carrito de compras.
-* `sprint3/`: (Aún no implementado) Demostraciones de depuración con Redux DevTools.
+* `sprint2/`: Aplicación React del carrito de compras.
+* `sprint3/`: Demostraciones de depuración con Redux DevTools.
 
 * ### Sprint 1: Fundamentos de Programación Funcional en JavaScript
 
